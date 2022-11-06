@@ -1,0 +1,30 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: cadetblue;
+}
+
+h1{
+  background-color: #476f97;
+  text-align: center;
+  color: white;
+  padding: 10px;
+}
+
+h5{
+  text-align: center;
+  color: white;
+  padding: 10px;
+  background-color: #29573a;
+  border-radius: 5px;
+}
+
+#conversor{
+  margin-top: 30px;
+  background-color: #abcdef;
+  padding: 30px;
+  border-radius: 8px;
+}
